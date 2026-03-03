@@ -1,5 +1,14 @@
-# 💫 About Me:
-i am currently student <br>i am learning java and its frameworks<br>i have completed BCA and corruntly doing MCA <br>
+## 💫 About Me
+
+I'm an **aspiring Java developer** pursuing my **Master of Computer Applications (MCA)** 
+with a strong foundation from my **Bachelor of Computer Applications (BCA)** degree.
+
+Currently focused on mastering:
+- **Backend Development**: Java, Spring Boot, Hibernate
+- **Full-Stack Development**: REST APIs, MySQL/PostgreSQL, React
+- **Problem Solving**: Data Structures, Algorithm Design
+
+**Open to opportunities** in Java development, backend engineering, and collaborative projects.
 
 
 ## 🌐 Socials:
