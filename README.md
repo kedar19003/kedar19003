@@ -1,54 +1,73 @@
-# Hi, I'm Kedar Gurav 👋
-**MCA Student | Aspiring Java Backend Developer**
+# Hi, I'm Kedarnath Gurav 👋
+**Aspiring Java Backend Developer | MCA Student**
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:kedagurav192003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/kedar19003"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
-### 📝 About Me
-I am a dedicated **Full-Stack Developer** with a deep focus on **Java Backend Engineering**. Currently pursuing my MCA, I spend my time building scalable REST APIs and exploring the depths of Spring Boot and Microservices.
-
-- 🔭 **Current Project:** Individual Student Attendance Analytics (Java/Spring)
-- 🌱 **Learning:** System Design & Cloud Deployment (AWS/Azure)
-- 🏗️ **Goal:** Building robust, clean, and efficient enterprise-grade solutions.
+### 🚀 Professional Objective
+Enthusiastic **Full-Stack Developer** in training with a strong foundation in **Java and Backend Development**. I am focused on building scalable MVC architectures and writing clean, efficient code. Currently seeking entry-level opportunities to contribute to real-world projects.
 
 ---
 
 ### 🎓 Education
-| Degree | Specialization | Institution | Year |
+| Level | Institution | Result | Year |
 | :--- | :--- | :--- | :--- |
-| **MCA** | Computer Applications | [Your University Name] | 2024 - 2026 |
-| **BCA** | Computer Applications | [Your College Name] | 2021 - 2024 |
+| **BCA** | KTHM College | **7.63 CGPA** | 2022 - 2025 |
+| **XII (State Board)** | Nutan Jr. Science College | **81.50%** | 2022 |
+| **X (State Board)** | Hasti Public School | **87.20%** | 2020 |
 
 ---
 
-### 💻 Tech Stack
+### 💻 Technical Expertise
 
-#### 🔙 Backend & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Backend & Core**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Web & Database**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-0052FF?style=for-the-badge&logo=api&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### 🗄️ Database & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+**Concepts**
+`Data Structures & Algorithms (DSA)` • `OOPs` • `MVC Architecture` • `Database Design`
+
+---
+
+### 📂 Academic Projects
+* **Animal Farm Management System**
+    * *Purpose:* Livestock record-keeping, health tracking, and yield reporting.
+    * *Tech:* Java, Spring Boot, MySQL.
+* **E-Commerce Clone**
+    * *Purpose:* A full-stack platform for browsing and purchasing products online.
+    * *Tech:* HTML, CSS, JavaScript, Java Backend.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kedar19003&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedar19003&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kedar19003&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🎹 Beyond Coding
+When I'm not debugging, you'll find me:
+- 🎵 Playing the **Harmonium or Piano**.
+- 🧘 Practicing **Meditation & Mindfulness**.
+- 🏏 Staying active with fitness and travel.
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kedar19003&icon=0&color=0" />
-</p>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=kedar19003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=kedar19003&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kedar19003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=kedar19003&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
