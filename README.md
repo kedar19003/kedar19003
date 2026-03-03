@@ -1,14 +1,18 @@
-## 💫 About Me
+## About
 
-I'm an **aspiring Java developer** pursuing my **Master of Computer Applications (MCA)** 
-with a strong foundation from my **Bachelor of Computer Applications (BCA)** degree.
+I'm an **aspiring Java developer** with a strong passion for backend development and full-stack engineering. Currently pursuing my **Master of Computer Applications (MCA)** with a solid foundation from my **Bachelor of Computer Applications (BCA)** degree.
 
-Currently focused on mastering:
-- **Backend Development**: Java, Spring Boot, Hibernate
-- **Full-Stack Development**: REST APIs, MySQL/PostgreSQL, React
-- **Problem Solving**: Data Structures, Algorithm Design
+**My Focus Areas:**
+- **Backend Development**: Specializing in Java, Spring Boot, and Hibernate
+- **Full-Stack Development**: Building robust REST APIs with MySQL/PostgreSQL and React frontends
+- **Problem Solving**: Strengthening my skills in Data Structures and Algorithm Design
 
-**Open to opportunities** in Java development, backend engineering, and collaborative projects.
+**Career Aspirations:**
+I'm actively seeking entry-level opportunities in Java development and backend engineering where I can apply my technical knowledge, contribute to real-world projects, and continuously grow as a developer. I'm committed to writing clean, efficient code and collaborating with teams to deliver high-quality solutions.
+
+**Always Learning** 🚀
+I believe in continuous improvement and am dedicated to mastering modern development practices, design patterns, and industry best practices.
+
 
 
 ## 🌐 Socials:
