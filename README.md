@@ -104,8 +104,4 @@ An agricultural equipment marketplace that recommends products based on a buyer'
 
 ---
 
-<div align="center">
 
-### Let's build reliable, secure, and scalable backend systems.
-
-</div>
