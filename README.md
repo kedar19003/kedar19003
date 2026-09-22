@@ -92,18 +92,7 @@ An agricultural equipment marketplace that recommends products based on a buyer'
 | **XII · State Board** | Nutan Jr. Science College | **81.50%** | 2022 |
 | **X · State Board** | Hasti Public School | **87.20%** | 2020 |
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kedar19003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kedarnath's GitHub statistics" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedar19003&layout=compact&theme=tokyonight&hide_border=true" alt="Kedarnath's top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kedar19003&theme=tokyonight&hide_border=true" alt="Kedarnath's GitHub streak" />
-
-</div>
 
 ---
 
